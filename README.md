@@ -2,15 +2,21 @@
 
 **iOS Developer** · Swift · SwiftUI · UIKit · Valencia
 
-Building native iOS apps in production (employee-scale apps, BLE, SwiftUI/UIKit). I also write about coding agents + Swift/Xcode.
+Native iOS in production at Mercadona B2, building employee-app workflows around BLE access, payslips, and office tasks. Side projects in SwiftUI.
 
-### Highlighted work
-- **[blog-ia-swift](https://github.com/MarioB03/blog-ia-swift)** — Blog (Astro) on Claude Code / Grok / Codex / Cursor applied to Swift & SwiftUI
-- **[Bloom](https://github.com/MarioB03/Bloom)** — Emotional wellness journal for iOS (SwiftUI + Firebase, migrated from React Native)
+### Flagship
+
+- **[Bloom](https://github.com/MarioB03/Bloom)** — Native SwiftUI emotional journal (iOS 17+): Firebase, StoreKit 2, WidgetKit, CryptoKit. Migrated from React Native.
+
+### Also
+
+- **[blog-ia-swift](https://github.com/MarioB03/blog-ia-swift)** — Blog (Astro) on coding agents + Swift/SwiftUI
 - **[relicario](https://github.com/MarioB03/relicario)** — Song collector / recognition side project
 
 ### Stack
-`Swift` `SwiftUI` `UIKit` `Xcode` `Git` `REST` `MVVM` `Firebase` `BLE`
+
+`Swift` `SwiftUI` `UIKit` `Xcode` `MVVM` `REST` `Firebase` `BLE` `StoreKit` `WidgetKit`
 
 ### Links
-- LinkedIn: [mario-belenguer-urpinell](https://www.linkedin.com/in/mario-belenguer-urpinell-2b8510355/)
+
+- LinkedIn: https://www.linkedin.com/in/mario-belenguer-urpinell-2b8510355/
