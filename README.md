@@ -30,9 +30,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/SwiftUI-iOS_17+-F05138?logo=swift&logoColor=white" alt="SwiftUI">
-  <img src="https://img.shields.io/badge/StoreKit_2-subscriptions-0A0B14" alt="StoreKit 2">
-  <img src="https://img.shields.io/badge/WidgetKit-widgets-0A0B14" alt="WidgetKit">
-  <img src="https://img.shields.io/badge/CryptoKit-encryption-0A0B14" alt="CryptoKit">
+  <img src="https://img.shields.io/badge/StoreKit_2-subscriptions-B281EB" alt="StoreKit 2">
+  <img src="https://img.shields.io/badge/WidgetKit-widgets-B281EB" alt="WidgetKit">
+  <img src="https://img.shields.io/badge/CryptoKit-encryption-B281EB" alt="CryptoKit">
   <img src="https://img.shields.io/badge/Firebase-sync-FFCA28?logo=firebase&logoColor=black" alt="Firebase">
 </p>
 
@@ -40,19 +40,17 @@
 
 ## Also building
 
-| Project | What it is |
-|---|---|
-| **[blog-ia-swift](https://github.com/MarioB03/blog-ia-swift)** | A blog about coding agents (Claude Code, Codex, Cursor) applied to Swift, SwiftUI and Xcode. Built with Astro. |
-| **[relicario](https://github.com/MarioB03/relicario)** | A PWA that recognises songs as you hear them and keeps them in a vinyl-style collection, a diary and a map. |
+- **[blog-ia-swift](https://github.com/MarioB03/blog-ia-swift)**: a blog about coding agents (Claude Code, Codex, Cursor) applied to Swift, SwiftUI and Xcode. Built with Astro.
+- **[relicario](https://github.com/MarioB03/relicario)**: a PWA that recognises songs as you hear them and keeps them in a vinyl-style collection, a diary and a map.
 
 ## Toolbox
 
 <p>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift">
-  <img src="https://img.shields.io/badge/SwiftUI-0A0B14?style=flat-square&logo=swift&logoColor=F05138" alt="SwiftUI">
-  <img src="https://img.shields.io/badge/UIKit-0A0B14?style=flat-square&logo=apple&logoColor=white" alt="UIKit">
+  <img src="https://img.shields.io/badge/SwiftUI-3A3C52?style=flat-square&logo=swift&logoColor=F05138" alt="SwiftUI">
+  <img src="https://img.shields.io/badge/UIKit-3A3C52?style=flat-square&logo=apple&logoColor=white" alt="UIKit">
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode">
-  <img src="https://img.shields.io/badge/Swift_Testing-0A0B14?style=flat-square&logo=swift&logoColor=3FD37F" alt="Swift Testing">
+  <img src="https://img.shields.io/badge/Swift_Testing-3A3C52?style=flat-square&logo=swift&logoColor=3FD37F" alt="Swift Testing">
   <img src="https://img.shields.io/badge/Core_Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white" alt="Core Bluetooth">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
