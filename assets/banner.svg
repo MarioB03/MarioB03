@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="300" viewBox="0 0 880 300" role="img" aria-label="Mario Belenguer — iOS Developer">
+  <style>
+    .mono { font-family: ui-monospace, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 15px; }
+    .ln { fill: #4B4A5E; }
+    .kw { fill: #FF7AB2; font-weight: 700; }
+    .ty { fill: #5DD8FF; }
+    .fn { fill: #B281EB; }
+    .st { fill: #FC6A5D; }
+    .nu { fill: #D9C97C; }
+    .tx { fill: #ECEAF4; }
+    .cm { fill: #6C6986; font-style: italic; }
+    .title { font-family: -apple-system, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .cursor { animation: blink 1.1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <defs>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#F05138" stop-opacity=".45"/>
+      <stop offset=".5" stop-color="#B281EB" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#B281EB" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="swift" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F88A36"/>
+      <stop offset="1" stop-color="#F05138"/>
+    </linearGradient>
+    <clipPath id="card"><rect width="880" height="300" rx="16"/></clipPath>
+  </defs>
+
+  <rect width="880" height="300" rx="16" fill="#0A0B14"/>
+  <circle cx="840" cy="20" r="320" fill="url(#glow)" clip-path="url(#card)"/>
+
+  <!-- window -->
+  <rect x="24" y="24" width="832" height="252" rx="12" fill="#161726" stroke="#262740"/>
+  <path d="M24 36a12 12 0 0 1 12-12h808a12 12 0 0 1 12 12v18H24z" fill="#1F1F2E"/>
+  <circle cx="46" cy="39" r="6" fill="#FF5F57"/>
+  <circle cx="66" cy="39" r="6" fill="#FEBC2E"/>
+  <circle cx="86" cy="39" r="6" fill="#28C840"/>
+  <rect x="380" y="31" width="16" height="16" rx="4" fill="url(#swift)"/>
+  <text x="404" y="44" class="title" font-size="13" fill="#9591AB">MarioBelenguer.swift</text>
+
+  <g class="mono">
+    <g><text x="44" y="88" class="ln">1</text><text x="80" y="88"><tspan class="kw">import</tspan><tspan class="tx"> SwiftUI</tspan></text></g>
+    <g><text x="44" y="112" class="ln">2</text></g>
+    <g><text x="44" y="136" class="ln">3</text><text x="80" y="136"><tspan class="kw">struct</tspan><tspan class="ty"> Mario</tspan><tspan class="tx">: </tspan><tspan class="ty">iOSDeveloper</tspan><tspan class="tx"> {</tspan></text></g>
+    <g><text x="44" y="160" class="ln">4</text><text x="116" y="160"><tspan class="kw">let</tspan><tspan class="tx"> name = </tspan><tspan class="st">"Mario Belenguer"</tspan></text></g>
+    <g><text x="44" y="184" class="ln">5</text><text x="116" y="184"><tspan class="kw">let</tspan><tspan class="tx"> basedIn = </tspan><tspan class="st">"Valencia, ES"</tspan></text></g>
+    <g><text x="44" y="208" class="ln">6</text><text x="116" y="208"><tspan class="kw">let</tspan><tspan class="tx"> stack: [</tspan><tspan class="ty">Tool</tspan><tspan class="tx">] = [.</tspan><tspan class="fn">swift</tspan><tspan class="tx">, .</tspan><tspan class="fn">swiftUI</tspan><tspan class="tx">, .</tspan><tspan class="fn">uiKit</tspan><tspan class="tx">, .</tspan><tspan class="fn">firebase</tspan><tspan class="tx">]</tspan></text></g>
+    <g><text x="44" y="232" class="ln">7</text><text x="116" y="232"><tspan class="kw">var</tspan><tspan class="tx"> shipping = </tspan><tspan class="st">"Bloom"</tspan><tspan class="tx"> </tspan><tspan class="cm">// App Store, iOS 17+</tspan></text></g>
+    <g><text x="44" y="256" class="ln">8</text><text x="80" y="256" class="tx">}</text><rect class="cursor" x="92" y="243" width="2" height="17" fill="#ECEAF4"/></g>
+  </g>
+</svg>
